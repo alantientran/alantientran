@@ -31,7 +31,7 @@ Here’s a list of languages, tools, and technologies I work with:
 A few highlights from my GitHub repositories:
 
 ### 📌 [Factuality](https://github.com/alantientran/Factuality)
-A RAG-based fact-checking app that takes in audio and returns users with confidence score, sources, and context to provide the full picture of each claim.
+A RAG-based fact-checking app that takes in audio and returns a confidence score, sources, and contextual information to provide users with a complete picture of each claim.
 
 ### 📌 [Geoguessr](https://github.com/alantientran/Accident-Severity-Predictor)
 A hybrid CNN-ViT model trained on 129K Google Street View images to predict the geolocation of images across 10 U.S. states. 
