@@ -1,4 +1,4 @@
-# Hi there, I'm [Alan] 👋
+# Hi there, I'm Alan 🍣
 
 <!-- You can replace this with a personal intro GIF, banner, or a fun emoji line -->
 
@@ -31,16 +31,16 @@ A few highlights from my GitHub repositories:
 ### 📌 [Factuality](https://github.com/alantientran/Factuality)
 A RAG-based fact-checking app that takes in audio and returns users with confidence score, sources, and context to provide the full picture of each claim.
 
-### 📌 [Accident Severity Predictor](https://github.com/alantientran/Accident-Severity-Predictor)
-A data science project predicitng fatality and severity rates of accidents with data exploration, data wrangling, feature engineering, model construction, and model analysis.
+### 📌 [Geoguessr](https://github.com/alantientran/Accident-Severity-Predictor)
+Fine-tuned a hybrid CNN-ViT model on 129K images to predict the geolocation of an image in 10 U.S. states. 
 
 ---
 
 ## 📈 GitHub Stats
 
 <!-- Optional: You can include GitHub stats or streaks if you'd like -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alantientran&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alantientran&layout=compact)
 
 ---
 
