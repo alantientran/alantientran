@@ -11,8 +11,8 @@ I'm currently a software engineer for Project SEED. In this role I developed a b
 - 🔭 I’m currently working on 2 React projects at Project SEED
 - 🌱 I’m currently learning AWS and to create dashboards with Tableau
 - 👯 I’m looking to collaborate on data driven projects
-- 🍱 How to reach me: alantientran@gmail.com
-- 🍜 Fun fact: I dance hip hop and kpop with 2 dance groups at UT Austin and I love connecting with people through food.
+- 📧 How to reach me: alantientran@gmail.com
+- 🍱 Fun fact: I dance hip hop and kpop with 2 dance groups at UT Austin and I love connecting with people through food.
 
 ---
 
@@ -47,7 +47,7 @@ Website allows UT students to select all classes they're interested in and filte
 
 ---
 
-Thank you for stopping by! 😊🍡
+Thank you for stopping by! 😊
 
 
 <!--
