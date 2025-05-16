@@ -34,7 +34,8 @@ A RAG-based fact-checking app that takes in audio and returns users with confide
 ### 📌 [Geoguessr](https://github.com/alantientran/Accident-Severity-Predictor)
 A hybrid CNN-ViT model trained on 129K Google Street View images to predict the geolocation of images across 10 U.S. states. 
 
----
+### 📌 [UT Course Schedule Visualizer](https://github.com/alantientran/ut-course-schedule-visualizer/tree/main)
+Website allows UT students to select all classes they're interested in and filter through different generated schedule variations.
 
 ## 📈 GitHub Stats
 
