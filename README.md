@@ -40,12 +40,12 @@ Website allows UT students to select all classes they're interested in and filte
 ## 📈 GitHub Stats
 
 <!-- Optional: You can include GitHub stats or streaks if you'd like -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alantientran&show_icons=true&theme=default)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alantientran&show_icons=true&theme=default) -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alantientran&layout=compact)
 
 ---
 
-Thanks for stopping by! 😊
+Thank you for stopping by! 😊🍡
 
 
 <!--
