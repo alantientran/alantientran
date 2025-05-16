@@ -19,7 +19,7 @@ I'm a rising senior at UT Austin studying Computer Science with a concentration 
 Here’s a list of languages, tools, and technologies I work with:
 
 - **Programming Languages:** `Java`, `Python`, `SQL`, `C`, `HTML`, `CSS`, `JavaScript`, `TypeScript`, `R`, `Dart`
-- **Libraries & Frameworks:** `Pandas`, `PyTorch`, `Scikit-learn`, `ReactJS`, `React Native`, `Bootstrap`, `MUI`, `Flask`, `Node.js`, `Express`, `Flutter`
+- **Libraries & Frameworks:** `Pandas`, `PyTorch`, `Scikit-learn`, `ReactJS`, `React Native`, `Flask`, `Node.js`, `Express`, `Flutter`, `Bootstrap`, `MUI`
 - **Tools & Platforms:** `Firebase`, `MongoDB`, `Postman`, `MySQL`, `Expo`, `Git`, `Jupyter`, `RStudio`, `Excel`, `Power BI`, `Figma`
 
 ---
@@ -32,7 +32,7 @@ A few highlights from my GitHub repositories:
 A RAG-based fact-checking app that takes in audio and returns users with confidence score, sources, and context to provide the full picture of each claim.
 
 ### 📌 [Geoguessr](https://github.com/alantientran/Accident-Severity-Predictor)
-Fine-tuned a hybrid CNN-ViT model on 129K images to predict the geolocation of an image in 10 U.S. states. 
+A hybrid CNN-ViT model trained on 129K Google Street View images to predict the geolocation of images across 10 U.S. states. 
 
 ---
 
