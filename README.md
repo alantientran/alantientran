@@ -4,7 +4,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm a rising senior at UT Austin studying Computer Science with a concentration in AI/ML and a minor in Statistics and Data Science. Through both coursework and hands-on projects, I have extensive experience with deep learning, data science (R, Python), and full stack app development. I'm currently a software engineer for Project SEED. In this role I developed a backend NLP pipeline to score linguistic data and manage React websites for JsPsych research games and RA training scheduling. My ultimate goal is to apply my skills in software development and data science to build meaningful, impactful technology.
+I'm a rising senior at UT Austin studying Computer Science with a concentration in AI/ML and a minor in Statistics and Data Science. Through both coursework and hands-on projects, I've developed strong experience in deep learning, data science (Python, R), and full-stack web development.
+
+I'm currently a software engineer for Project SEED. In this role I developed a backend NLP pipeline to score linguistic data and manage React websites for JsPsych research games and RA training scheduling. My ultimate goal is to apply my skills in software development and data science to build meaningful, impactful technology.
 
 - 🔭 I’m currently working on 2 React projects at Project SEED
 - 🌱 I’m currently learning AWS and to create dashboards with Tableau
