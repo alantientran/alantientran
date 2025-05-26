@@ -11,7 +11,7 @@ I'm currently a software engineer for Project SEED. In this role I developed a b
 - 🔭 Current Projects: 2 React projects at Project SEED
 - 🌱 Currently learning: Power Query and Power BI
 - 📧 Email: alantientran@gmail.com
-- 🍱 Fun fact: I dance hip hop and kpop with 2 dance groups at UT Austin and I love connecting with people through food.
+- 🍱 Fun fact: I dance with 2 dance groups at UT Austin (hip-hop/kpop) and I love connecting with people through food.
 
 ---
 
