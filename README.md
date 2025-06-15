@@ -9,7 +9,7 @@ I'm a rising senior at UT Austin studying Computer Science with a concentration 
 I'm currently a software engineer for Project SEED. In this role I developed a backend NLP pipeline to score linguistic data and manage React websites for JsPsych research games and RA training scheduling. My ultimate goal is to apply my skills in software development and data science to build meaningful, impactful technology.
 
 - 🔭 Current Projects: NLP Data Pipeline
-- 🌱 Currently mastering: Power BI
+- 🌱 Current focus: mastering Power BI
 - 📧 Email: alantientran@gmail.com
 - 🍱 Fun fact: I dance with 2 dance groups at UT Austin (hip-hop/kpop) and I love connecting with people through food.
 
