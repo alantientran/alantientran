@@ -21,7 +21,7 @@ Here’s a list of languages, tools, and technologies I work with:
 
 - **Languages:** `Python`, `SQL`, `R`, `Java`, `C`, `HTML`, `CSS`, `JavaScript`, `TypeScript`, `Dart`  
 - **Frameworks:** `ReactJS`, `React Native`, `Node.js`, `Flask`, `Bootstrap`, `MUI`, `Express`  
-- **Platforms & Tools:** `AWS`, `Snowflake`, `MySQL`, `MongoDB`, `Firebase`, `Postman`, `Git`, `Figma`, `RStudio`, `Excel`, `Power BI`  
+- **Platforms & Tools:** `AWS`, `Snowflake`, `MySQL`, `MongoDB`, `Firebase`, `Postman`, `Git`, `Figma`, `RStudio`, `Excel`, `Power BI`, `Tableau`  
 - **AI & ML Tools:** `PyTorch`, `Pandas`, `Scikit-learn`, `OpenAI API (GPT, Embeddings)`, `Hugging Face`, `Pinecone`, `NLTK`, `spaCy`
 
 
